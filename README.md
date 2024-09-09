@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=8B008B&center=true&vCenter=true&width=535&lines=Hello%2C+I'm+acamdeveloper!;Full+Stack+Developer;Welcome+to+my+GitHub!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=8B008B&center=true&vCenter=true&width=535&lines=Hello%2C+I'm+acamdeveloper!;Welcome+to+my+GitHub!" alt="Typing SVG" />
 </div>
 
 
 <p align="center">
-   Hello, I'm a Full-Stack Developer (React, React Native, Node.js).
+   I'm a Full-Stack Developer (React, React Native, Node.js).
 </p>
 
 <div align="center">
