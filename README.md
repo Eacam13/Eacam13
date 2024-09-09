@@ -1,9 +1,7 @@
 
 ### Olá, Eu sou Celio Almeida 😉
 
-<div align="center">
-  [![Blog](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]    (https://www.youtube.com/@acamdevstack)
-</div>
+[![Blog](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]    (https://www.youtube.com/@acamdevstack)
 
 
 ![Celio GitHub stats](https://github-readme-stats.vercel.app/api?username=Eacam13&show_icons=true&theme=radical)
