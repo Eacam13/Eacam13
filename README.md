@@ -1,5 +1,11 @@
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=FF5733&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+acamdeveloper!;Full+Stack+Developer;Welcome+to+my+GitHub!" alt="Typing SVG" />
+</div>
 
-### Olá, Eu sou Celio Almeida 😉
+
+<p align="center">
+  Olá, Sou densenvolvedor Full-Stack Developer (React, React Native, Node.js).
+</p>
 
 <div align="center">
 
@@ -7,11 +13,6 @@
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eacam13&layout=compact&langs_count=16&theme=radical)
 </div>
-
-
-![Celio GitHub stats](https://github-readme-stats.vercel.app/api?username=Eacam13&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eacam13&layout=compact&langs_count=16&theme=radical)
 
 <h3 align="center">Tecnologias aplicadas nos meus projetos</h3>
 
