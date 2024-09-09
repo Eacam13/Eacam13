@@ -1,7 +1,12 @@
 
 ### Olá, Eu sou Celio Almeida 😉
 
-[![Blog](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]    (https://www.youtube.com/@acamdevstack)
+<div align="center">
+
+  ![Celio GitHub stats](https://github-readme-stats.vercel.app/api?username=Eacam13&show_icons=true&theme=radical)
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eacam13&layout=compact&langs_count=16&theme=radical)
+</div>
 
 
 ![Celio GitHub stats](https://github-readme-stats.vercel.app/api?username=Eacam13&show_icons=true&theme=radical)
