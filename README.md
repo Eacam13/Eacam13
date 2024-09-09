@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  Olá, Sou densenvolvedor Full-Stack Developer (React, React Native, Node.js).
+   Hello, I'm a Full-Stack Developer (React, React Native, Node.js).
 </p>
 
 <div align="center">
@@ -14,7 +14,7 @@
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eacam13&layout=compact&langs_count=16&theme=radical)
 </div>
 
-<h3 align="center">Tecnologias aplicadas nos meus projetos</h3>
+<h3 align="center">Technologies used in my projects</h3>
 
 <div align="center">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -30,7 +30,7 @@
   <img align="center" height="35" width="45" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </div>
 
-<h3 align="center">Entrar em contato</h3>
+<h3 align="center">Contact me</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/acamdeveloper/">
