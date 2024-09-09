@@ -23,9 +23,18 @@
   <img align="center" height="35" width="45" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </div>
 
+<h3 align="center">Entrar em contato</h3>
 
-Desenvolvendo, vivendo e evoluindo...🚀
+<p align="center">
+  <a href="https://www.linkedin.com/in/acamdeveloper/">
+    <img height="25px" src="https://img.shields.io/badge/-LINKEDIN-000000?style=flat-square&logo=Linkedin&logoColor=7e3ace&link=linkedin.com/in/acamdeveloper/" />
+  </a>
+  
+  <a href="https://www.instagram.com/acamdeveloper/">
+    <img height="25px" src="https://img.shields.io/badge/-INSTAGRAM-000000?style=flat-square&logo=Instagram&logoColor=7e3ace&link=https://www.instagram.com/acamdeveloper/" />
+  </a>
 
-## E-mail para contato
-
-- acamdevstack@gmail.com
+  <a href="mailto:acamdevstack@gmail.com">
+    <img height="25px" src="https://img.shields.io/badge/-GMAIL-000000?style=flat-square&logo=Gmail&logoColor=7e3ace&link=mailto:acamdevstack@gmail.com" />
+  </a>
+</p>
