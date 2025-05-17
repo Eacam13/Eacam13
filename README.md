@@ -4,7 +4,7 @@
 
 
 <p align="center">
-   I'm a Full-Stack Developer (React, React Native, Node.js).
+Fullstack developer with experience in web development (Next.js, Tailwind CSS, Styled Components), mobile (React Native with Expo), and backend (Node.js with REST APIs). I work with various databases including Firebase, PostgreSQL, MySQL, and MongoDB. Currently learning C# with a focus on game development.
 </p>
 
 <div align="center">
