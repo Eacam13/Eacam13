@@ -7,19 +7,6 @@
 Fullstack developer with experience in web development (Next.js, Tailwind CSS, Styled Components), mobile (React Native with Expo), and backend (Node.js with REST APIs). I work with various databases including Firebase, PostgreSQL, MySQL, and MongoDB. Currently learning C# with a focus on game development.
 </p>
 
-<div align="center">
-
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Eacam13&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"
-    height="165"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eacam13&layout=compact&langs_count=8&theme=radical&hide_border=true"
-    height="165"
-  />
-
-</div>
 
 
 <h3 align="center">Technologies used in my projects</h3>
