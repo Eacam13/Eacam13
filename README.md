@@ -9,10 +9,18 @@ Fullstack developer with experience in web development (Next.js, Tailwind CSS, S
 
 <div align="center">
 
-  ![Celio GitHub stats](https://github-readme-stats.vercel.app/api?username=Eacam13&show_icons=true&theme=radical)
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Eacam13&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"
+    height="165"
+  />
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eacam13&layout=compact&langs_count=16&theme=radical)
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eacam13&layout=compact&langs_count=8&theme=radical&hide_border=true"
+    height="165"
+  />
+
 </div>
+
 
 <h3 align="center">Technologies used in my projects</h3>
 
